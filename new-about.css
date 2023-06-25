@@ -92,6 +92,11 @@
     height: 55rem;
   }
 }
+@media(min-width: 200px) {
+  .card_valueState-more--open {
+    height: 57rem;
+  }
+}
 
 
 .readmore-state {
